@@ -52,9 +52,6 @@ if ($a === $b) {
 // Utilisez l'opérateur différent != pour vérifier si $a est égal de $b.
 // Affichez "2) $a est différent != de $b<br>" si c'est vrai et "2) $a est égal à $b<br>" sinon.
 
-
-if 
-
 /*
  * 4) !== : strictement différent de
  */
@@ -78,7 +75,7 @@ if ($a > $b) {
     echo '6) $a est supérieur > à $b<br>';
 } else {
     echo '6) $a est inférieur ou égal à $b<br>';
-
+}
 
 echo '<p>-- $a = '.$a.' et $b = '.$b.'</p>';
 
